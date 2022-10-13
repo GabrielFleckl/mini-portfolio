@@ -18,12 +18,12 @@
 
 Aqui você pode conferir o layout em suas respectivas versões. <br>
 
-[👉 Link para visualizar a pagina inteira](https://gabrielfleckl.github.io/projeto-doguinhos/)
+[👉 Link para visualizar a pagina inteira](https://gabrielfleckl.github.io/mini-portfolio/)
 
 ### Versão Web 🖥️
 
 <br>
-  <img alt="layout-web" src="img/doguinhos.png" width="100%"> 
+  <img alt="layout-web" src="src/imagens/desktop.png" width="100%"> 
 
 ---
 
@@ -31,7 +31,7 @@ Aqui você pode conferir o layout em suas respectivas versões. <br>
 
 <br>
 <p align="center">
-  <img alt="layout-web" src="img/mobile.png" width="40%">
+  <img alt="layout-web" src="src/imagens/mobile.png" width="40%">
 </p>
 
 ## 🚀 Tecnologias
@@ -41,12 +41,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ![image](https://img.shields.io/badge/HTML-orangered?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![image](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)<br>
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br>
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-	
 
+	
 ## 💻 Projeto
 
-Site para clinica veterinária usando bootstrap para agilizar a construção das seções, com a opção de mudança para o tema escuro 🐶.
+Mini portfolio feito durante o evento Mapa DEVWEEK, contendo 2 abas para links relevantes e descrição pessoal 👨‍💻.
 
 ## 📝 Licença
 
